@@ -1,0 +1,2 @@
+# SpotifyReplica
+AluraImersãoFrontEnd2025
