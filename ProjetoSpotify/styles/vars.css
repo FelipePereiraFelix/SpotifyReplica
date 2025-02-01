@@ -1,0 +1,11 @@
+/*Raizes, aqui basicamente define coisas padrões no site inteiro
+aqui teremos básicamente uma formatação de coisas gerai*/
+
+:root {
+  /*FONT*/
+  --font--dm--sans: "Dm Sans", sans-serif;
+
+  /* COLORS */
+  --bg--icon: #131313;
+  --bg-arrow-color: rgba(0, 0, 07);
+}
